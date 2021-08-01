@@ -21,3 +21,9 @@ let decimal: number = 10;
 let hexadecimal: number = 0xf00d;
 console.log('decimal', decimal);
 console.log('hexadecimal', hexadecimal);
+
+//String
+let nombre = 'Alberto';
+let apellido: string = 'Castillo';
+let nombreCompleto= nombre + ' ' + apellido;
+console.log('nombreCompleto', nombreCompleto);
